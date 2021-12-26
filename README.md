@@ -1,6 +1,6 @@
-# order_taking_app
+# Money_Manager
 
-Front-end with Flutter.
+Money management application using Flutter and HiveDB.
 
 ## Credentials
 
